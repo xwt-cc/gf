@@ -11,7 +11,7 @@ export default function Footer() {
               关于
             </h3>
             <p className="mt-4 text-base text-gray-600 dark:text-gray-300">
-              1Pages 是一个基于 Remix 和 边缘计算（无服务器） 构建的现代化Ai博客平台。
+              &copy; xwt.cc · 托管于<a href="https://curl.qcloud.com/gb2GvhmX" target="_blank">腾讯云</a> · <a href="http://beian.miit.gov.cn" target="_blank">湘ICP备16020283号</a>
             </p>
           </div>
 
@@ -72,7 +72,7 @@ export default function Footer() {
         {/* 版权信息 */}
         <div className="mt-8 border-t border-gray-200 dark:border-gray-800 pt-8 text-center">
           <p className="text-base text-gray-500 dark:text-gray-400">
-            &copy; {new Date().getFullYear()} 1Pages. All rights reserved.
+            &copy; xwt.cc · 托管于<a href="https://curl.qcloud.com/gb2GvhmX" target="_blank">腾讯云</a> · <a href="http://beian.miit.gov.cn" target="_blank">湘ICP备16020283号</a>
           </p>
         </div>
       </div>
