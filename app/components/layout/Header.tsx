@@ -8,7 +8,7 @@ export default function Header() {
           {/* Logo */}
           <div className="flex-shrink-0 flex items-center">
             <Link to="/" className="text-xl font-bold text-gray-900 dark:text-white">
-              1Pages
+              国防动员
             </Link>
           </div>
 
